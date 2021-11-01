@@ -1,0 +1,4 @@
+#Mon Nov 01 14:45:02 SGT 2021
+base.0=C\:\\D\\Kerja\\Sinarmas\\tes\\flutter\\app_test\\example_provider_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -26,10 +26,7 @@ class ProductItem extends StatelessWidget {
               arguments: id,
             );
           },
-          child: Image.network(
-            imageUrl,
-            fit: BoxFit.cover,
-          ),
+          child: Icon(Icons.add),
         ),
         footer: GridTileBar(
           backgroundColor: Colors.black87,
